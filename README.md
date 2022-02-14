@@ -3,6 +3,10 @@
 
 ## In support of Duke University/Coursera online course on Cloud Computing Foundations
 
+> One part of the assignement in Effective Technical Discussion was to embed a Python notebook into a GitHub project. 
+
+
+
 - Asciidoc VS Markdown
 
 Asciidoc excels for creating segmented documents, as for instance a book with chapters
