@@ -9,7 +9,7 @@ Asciidoc excels for creating segmented documents, as for instance a book with ch
 
 Markdown is more widely supported, as for instance in Github
 
-However by utilizing PanDoc's ability to convert from most any format to other formats that advantage goes away for the most part. Still Markdown is good for quick one-offs with on requirement for anything beyond basic text formatting.
+However by utilizing PanDoc's ability to convert from most any format to other formats that advantage goes away for the most part. Still Markdown is good for quick one-offs with no requirement for anything beyond basic text formatting, links, images.
 
 - Pandoc
  ![From/to matrix](https://user-images.githubusercontent.com/1434423/153799099-6e2aa48f-2d5e-408b-884e-dd0ddd2ea0b2.png)
