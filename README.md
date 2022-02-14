@@ -7,6 +7,7 @@
 
 
 
+
 - Asciidoc VS Markdown
 
 Asciidoc excels for creating segmented documents, as for instance a book with chapters
