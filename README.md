@@ -3,10 +3,15 @@
 
 ## In support of Duke University/Coursera online course on Cloud Computing Foundations
 
+I have not been treating this as a proper Git project, branching, versoning, etc. Instead, I have concentrated on installing the different tools I thought I neeed to do the assignments, *locally*.
+
+Now that I've discovered how to followw the Lab button, I'll work on using the usual GIT workflow.
+
+And now for something different, soapbox time!
 
 - Asciidoc VS Markdown
 
-Asciidoc excels for creating segmented documents, as for instance a book with chapters
+Asciidoc excels for creating segmented documents, as for instance, a book with chapters
 
 Markdown is more widely supported, as for instance in Github
 
